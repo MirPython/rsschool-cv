@@ -8,7 +8,7 @@ __PHONE__
 +77011283329
 ____
 __EMAIL__
-Mirmanov.s.a@gmail.com
+mirseka@mail.ru
 ___
 _ABOUT ME_
 I'm newcomer at programming. I have started my path from Python and realized that it is realy my field. I was born for programming. I know that it will be really hard way, but I believe myself.
