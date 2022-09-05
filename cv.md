@@ -1,4 +1,4 @@
-#Mirmanov Serik
+#Mirmanov Serik Almaspayevich
 ___
 ![My best photo](Serik1.jpg)
 ____
