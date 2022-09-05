@@ -1,2 +1,1 @@
-# rsschool-cv
-my first exercise
+https://MirPython.github.io/rsschool-cv/cv
