@@ -10,7 +10,7 @@ ____
 __EMAIL__
 mirseka@mail.ru
 ___
-_ABOUT ME_
+__ABOUT ME__
 I'm newcomer at programming. I have started my path from Python and realized that it is realy my field. I was born for programming. I know that it will be really hard way, but I believe myself.
 >___Progress is never linear___
 ___
