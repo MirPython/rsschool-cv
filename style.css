@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  font-size: 20;
+}
+h2 {
+  color: blue;
+  font-size: 20;
+}
+h3 {
+  color: blue;
+  font-size: 30;
+}
+h4 {
+  color: blue;
+  font-size: 40;
+}
+h5 {
+  color: blue;
+  font-size: 50;
+  font-weight: bold;
+}
+li {
+  color: violet;
+  font-weight: italic;
+}
+code {
+  background-color: yellow;
+}
+table,
+tr,
+td {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-collapse: collapse;
+}
